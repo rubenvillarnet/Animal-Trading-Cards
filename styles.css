@@ -1,0 +1,32 @@
+/* add your CSS here */
+.card{
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  -webkit-box-shadow: 6px 6px 3px 0px rgba(227,227,227,1);
+  -moz-box-shadow: 6px 6px 3px 0px rgba(227,227,227,1);
+  box-shadow: 6px 6px 3px 0px rgba(227,227,227,1);
+}
+
+h3{
+  font-size: 1.5em;
+}
+
+.text{
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0 0 0;
+}
+
+ul{
+  padding: 0;
+}
+
+li{
+  list-style: none;
+}
+
+li span{
+  font-weight: bold;
+}
